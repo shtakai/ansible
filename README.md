@@ -1,6 +1,8 @@
 Ansible
 =======
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/ansible.svg)](https://www.guardrails.io)
+
 My ansible playbooks. 
 
 * lighttpd-nodes is used for installing and configuring lighttpd.
